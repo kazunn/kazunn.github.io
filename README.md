@@ -1,3 +1,2 @@
-###ReadMe
-
-github.io page of kazunn
+#kazunn.github.io
+with Jekyll Now
