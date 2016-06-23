@@ -3,9 +3,9 @@ layout: post
 title: The first post!
 ---
 
-This is the first post. The main reason to create the site because I'm trying to be fancy. Also had some intentions of starting a tech blog. 
+This is the first post.  I wanted to have a personal website and created this using Github pages. Also, this will be my tech blog.
 
-I am lazy enough not to continue this. Hope this will not go that way.
+But I am lazy enough not to continue this. Hope it will not go that way.
 
 Yep, that is all for today.
 
