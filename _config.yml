@@ -6,10 +6,10 @@
 name: Kazunn
 
 # Short bio or description (displayed in the header)
-description: I have no idea
+description: Software clerk
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://s.gravatar.com/avatar/b88e265d286aad856aa88d793b988cc1?s=80
+avatar: https://avatars3.githubusercontent.com/u/1954023?v=3&s=80
 
 #
 # Flags below are optional
@@ -18,14 +18,14 @@ avatar: https://s.gravatar.com/avatar/b88e265d286aad856aa88d793b988cc1?s=80
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email:kazunn@gmail.com
   facebook:
   flickr:
   github: kazunn
   instagram:
-  linkedin:
+  linkedin:https://www.linkedin.com/in/kazunn
   pinterest:
-  rss: RSS# just type anything here for a working RSS icon
+  rss:
   twitter:
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
