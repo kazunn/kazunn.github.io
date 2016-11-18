@@ -1,11 +1,9 @@
 ---
-layout: page
-title: About
-permalink: /about/
+layout: default
+title: Kasun Karunathilake
 ---
 
-I am a Software engineer/Developer/Father/Hardcore cricket fan and soemtimes do blog in Sinhala(language)
-
-### Contact me
-
-[kazunn@gmail.com](mailto:kazunn@gmail.com)
+#Hello,
+##My name is Kasun Karunathilake
+###I am a Software Engineer at [vicanic.com](http://www.vocanic.com/)
+###Currently located in Colombo
