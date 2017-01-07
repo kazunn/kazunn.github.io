@@ -6,8 +6,8 @@ permalink: /resume/
 
 ## Kasun Karunathilake
 #### Technical lead
-##### Colombo, Sri Lanka.    +94725751656
-##### <i class="svg-icon-small email"></i>[kazunn@gmail.com](mailto:kazunn@gmail.com), <i class="svg-icon-small linkedin"></i> [LinkedIn](https://www.linkedin.com/in/kazunn), <i class="svg-icon-small github"></i> [GitHub](https://github.com/kazunn)
+##### Colombo, Sri Lanka. +94725751656
+##### [kazunn@gmail.com](mailto:kazunn@gmail.com), [LinkedIn](https://www.linkedin.com/in/kazunn), [GitHub](https://github.com/kazunn)
 ---
 
 ### Summary
@@ -44,11 +44,15 @@ Originally from Sri Lanka with overseas experience and looking for challenging a
 #### Software Engineering Intern (May 2008 – Jan 2009)
 * Member of engineering team that develop products and services to manage client subscriptions and authentications.
 
-#### Education
+---
+
+### Education
 
 B.S. in Engineering with honors (Jan 2005 – Sep 2009) 
 Department of Computer Engineering, University of Peradeniya , Sri Lanka.
 (http://www.ce.pdn.ac.lk/)
+
+---
 
 #### Publications
 
