@@ -5,9 +5,10 @@ permalink: /resume/
 ---
 
 ## Kasun Karunathilake
-#### Technical lead
-##### Colombo, Sri Lanka. +94725751656
+#### Technical lead  
+##### Colombo, Sri Lanka. +94725751656  
 ##### [kazunn@gmail.com](mailto:kazunn@gmail.com), [LinkedIn](https://www.linkedin.com/in/kazunn), [GitHub](https://github.com/kazunn)
+
 ---
 
 ### Summary
@@ -54,6 +55,6 @@ Department of Computer Engineering, University of Peradeniya , Sri Lanka.
 
 ---
 
-#### Publications
+### Publications
 
 User Friendly line CAPTCHAs - Research and development of line based new Human Interactive Proof method (or CAPTCHA method) with more user friendliness providing sufficient security (Presented on ICIIS2009) 
