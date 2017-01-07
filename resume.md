@@ -4,10 +4,10 @@ title: Resume
 permalink: /resume/
 ---
 
-## Kasun Karunathilake  
-#### Technical lead  
-##### Colombo, Sri Lanka. +94725751656  
-##### [kazunn@gmail.com](mailto:kazunn@gmail.com), [LinkedIn](https://www.linkedin.com/in/kazunn), [GitHub](https://github.com/kazunn)
+<h2> Kasun Karunathilake </h2>
+<h4> Technical lead </h4>
+<h5> Colombo, Sri Lanka. +94725751656  </h5>
+<h5> [kazunn@gmail.com](mailto:kazunn@gmail.com), [LinkedIn](https://www.linkedin.com/in/kazunn), [GitHub](https://github.com/kazunn) </h5>
 
 ---
 
