@@ -7,6 +7,6 @@ permalink: /questions/
 
  
  
-### Contact me
+##### Ask me
 
 [kazunn@gmail.com](mailto:kazunn@gmail.com)
