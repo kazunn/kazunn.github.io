@@ -5,7 +5,7 @@ permalink: /resume/
 ---
 
 ## Kasun Karunathilake  
-####  Technical lead  
+#### Technical lead  
 ##### Colombo, Sri Lanka. +94725751656  
 ##### [kazunn@gmail.com](mailto:kazunn@gmail.com), [LinkedIn](https://www.linkedin.com/in/kazunn), [GitHub](https://github.com/kazunn)
 
