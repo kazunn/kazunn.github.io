@@ -7,6 +7,18 @@ title: Kasun Karunathilake
 
 #### My name is Kasun Karunathilake
 
-#### I am a Software Engineer at [Vocanic.com](http://www.vocanic.com/)
-
+#### Work as a Technical lead at [Vocanic.com](http://www.vocanic.com/)
+ 
 #### Currently located in Colombo
+
+
+## I am a,
+ 
+ * Software engineer
+ * Father
+ * Cricket fan
+ 
+
+
+ 
+ 
