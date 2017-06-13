@@ -7,7 +7,7 @@ title: Kasun Karunathilake
 
 #### My name is Kasun Karunathilake
 
-#### Work as a Technical lead at [Vocanic.com](http://www.vocanic.com/)
+#### Work as a Technical lead at [Rhino Partners](https://rhino-partners.xyz/)
  
 #### Currently located in Colombo
 

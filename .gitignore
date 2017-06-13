@@ -9,3 +9,6 @@ Gemfile.lock
 node_modules
 package.json
 vcs.xml
+modules.xml
+kazunn.github.io.iml
+.idea/*
